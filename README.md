@@ -43,7 +43,7 @@
 
 ```bash
 # 1) Start Code
-python term.py
+python dark.py
 
 # 2) Install deps
 pip install -r req.txt
@@ -78,15 +78,6 @@ Also create `tokens.txt` with one account per line:
 email@example.com:SuperSecretPass:discordTokenHere
 ```
 
-> 🗝️ On first run you'll be asked for a license key. This binds to your HWID and updates IP history for auditability.
-
----
-
-## 🚀 Run
-
-```bash
-python main.py
-```
 
 You’ll be prompted for:
 - **Parallel threads** (keep reasonable to avoid rate limits)
@@ -119,8 +110,7 @@ verified.txt   # format: email:password:token
 
 ## 👤 Credits
 
-**Creator:** `Termwave`  
-**Contributors:** Wizard • Predzen  
+**Creator:** `Dark Knigt`  
 **License:** MIT
 
 > “Make it look like magic. Document it like science.”
@@ -132,3 +122,4 @@ verified.txt   # format: email:password:token
   <img alt="style" src="https://img.shields.io/badge/Style-Hacker%20Green-00ff00?style=for-the-badge" />
   <img alt="safe" src="https://img.shields.io/badge/Use-Authorized%20Only-ff0000?style=for-the-badge" />
 </p>
+
